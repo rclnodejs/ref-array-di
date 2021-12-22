@@ -1,5 +1,8 @@
 ref-array-di
 ============
+*THIS PACKAGE WAS FORKED FROM http://github.com/node-ffi-napi/ref-array-di AND UPDATED TO 
+ENABLE [rclnodejs](https://github.com/RobotWebTools/rclnodejs) TO RUN UNDER NODE VERSIONS 12-16. NO TESTING BEYOND the rclnodejs TEST SUITE
+HAS BEEN PERFORMED. USE AT YOUR OWN DISCRETION.*
 ### Create C typed "array" instances on top of Buffers
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/node-ffi-napi/ref-array-di.svg)](https://greenkeeper.io/)
